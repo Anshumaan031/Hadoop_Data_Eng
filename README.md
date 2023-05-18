@@ -147,4 +147,4 @@ sbin/stop-all.sh
 
 ## Authors
 
-- [@Anshumaan - <anshumaan.phukan@uavtech.ai>](https://github.com/Anshumaan031)
+- [@Anshumaan - <anshuphukan031@gmail.com>](https://github.com/Anshumaan031)
